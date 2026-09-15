@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning **more about TypeScript**
 
-👨‍💻 All of my projects are available at [https://github.com/Marleyedrg](https://github.com/Marleyedrg)
+👨‍💻 All of my projects are available at [https://github.com/Marleyedrg](https://github.com/marleyedrg)
 
 📫 How to reach me **marleyedrg@gmail.com**
 
