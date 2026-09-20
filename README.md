@@ -26,9 +26,3 @@
 
 **Leetcode**<br>
 <a href="https://www.leetcode.com/marleyedrg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="marleyedrg" height="30" width="40" /></a>
-
-</p>
-<h3>Main projects:</h3>
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Marleyedrg&repo=projects-of-C&bg_color=white&border_color=black&show_icons=true&icon_color=black&title_color=black&text_color=black)](https://github.com/Marleyedrg/projects-of-C)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Marleyedrg&repo=simpleJSBundler&bg_color=white&border_color=black&show_icons=true&icon_color=black&title_color=black&text_color=black)](https://github.com/Marleyedrg/simpleJSBundler)
