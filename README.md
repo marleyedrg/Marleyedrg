@@ -2,7 +2,7 @@
 
 📍 I'm from Brasília, Brazil
 
-🌱 I’m currently learning **more about TypeScript**
+🌱 I’m currently learning more about **requirements analysis**
 
 👨‍💻 All of my projects are available at [https://github.com/Marleyedrg](https://github.com/marleyedrg)
 
